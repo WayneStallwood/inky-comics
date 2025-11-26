@@ -4,6 +4,8 @@ Python script to fetch a randomised comic cover from the Metron Comic API.
 This script displays comic book covers on an Inky Impression e-ink display.
 You will need to sign up for an Account at https://metron.cloud/ to use this script.
 Change the search query to the comic series you want to display!
+
+usage comic.py ["search string"]
 """
 
 import sys
