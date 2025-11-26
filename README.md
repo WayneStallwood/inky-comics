@@ -84,7 +84,7 @@ source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 
 3. Install dependencies:
 ```bash
-pip install mokkari requests pillow inky
+pip install -r requirements.txt
 ```
 
 4. Configure your Metron API credentials:
